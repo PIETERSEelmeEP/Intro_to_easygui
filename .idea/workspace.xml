@@ -33,7 +33,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Rock_paper_scissors_v1">
+  <component name="RunManager" selected="Python.Teacher_Student_Ratio">
     <configuration name="Rock_paper_scissors_v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Intro_to_easygui" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="favourite_places_v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Teacher_Student_Ratio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Intro_to_easygui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/favourite_places_v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Teacher_Student_Ratio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="letter_choice_v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="help" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Intro_to_easygui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letter_choice_v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/help.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Teacher_Student_Ratio" />
+        <item itemvalue="Python.help" />
         <item itemvalue="Python.Rock_paper_scissors_v1" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Roll_the_dice_v1" />
-        <item itemvalue="Python.favourite_places_v1" />
-        <item itemvalue="Python.letter_choice_v1" />
       </list>
     </recent_temporary>
   </component>
