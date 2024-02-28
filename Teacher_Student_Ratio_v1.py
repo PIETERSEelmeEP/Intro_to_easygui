@@ -9,8 +9,8 @@ while True:
                                         title="Maximum Class Size",
                                         upperbound=30, lowerbound=10)
     total_students = easygui.integerbox(f"What is the total number of students"
-                                        f" at {school_name}:\nMust be a number "
-                                        f"between 10 and 1400",
+                                        f" at {school_name}:\nMust be a number"
+                                        f" between 10 and 1400",
                                         title="Total Roll of School",
                                         upperbound=1400, lowerbound=10)
 
@@ -37,8 +37,8 @@ while True:
                        title="Perfect Amount")
     elif teachers_needed < number_teachers:
         easygui.msgbox(f"You have too many teachers\nYou could do without "
-                       f"{number_teachers - teachers_needed} current teacher/s"
-                       , title="Over-staffed")
+                       f"{number_teachers - teachers_needed} current "
+                       f"teacher/s", title="Over-staffed")
     else:
         easygui.msgbox(f"You have a shortage of teachers\n You need to hire "
                        f"{teachers_needed - number_teachers} more teacher/s",
@@ -53,4 +53,4 @@ while True:
     else:
         continue
 
-easygui.msgbox(f"Goodbye")
+easygui.msgbox(f"Goodbye", title="Farewell")
